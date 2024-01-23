@@ -8,7 +8,11 @@ Our platform leverages machine learning to simulate realistic phishing scenarios
 **Key Features:**
 
 **Phishing Simulation:** Simulate realistic phishing scenarios within a controlled environment.
+
 **Machine Learning Integration:** Utilize machine learning models to analyze and enhance user responses.
+
 **Educational Content:** Provide interactive modules, videos, and quizzes to educate users on phishing threats.
+
 **User Authentication:** Implement a secure user authentication system for a personalized learning experience.
+
 **Progress Tracking:** Monitor user progress and provide insights for continuous improvement.
